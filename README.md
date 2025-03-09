@@ -1,3 +1,5 @@
+Projekt powstał przy współpracy z https://www.github.com/Olsonikk
+
 ## Instrukcja budowania serwera
 1. ```cd epoll_test```
 2. ```make```
